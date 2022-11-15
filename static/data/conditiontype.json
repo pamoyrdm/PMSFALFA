@@ -1,0 +1,137 @@
+{
+  "0": {
+    "text": "Unset"
+  },
+  "1": {
+    "text": "Pokémon Type"
+  },
+  "2": {
+    "text": "Pokémon"
+  },
+  "3": {
+    "text": "Weatherboosted"
+  },
+  "4": {
+    "text": "Daily capture bonus"
+  },
+  "5": {
+    "text": "Daily spin bonus"
+  },
+  "6": {
+    "text": "Win raid"
+  },
+  "7": {
+    "text": "With raid level"
+  },
+  "8": {
+    "text": "Throw type"
+  },
+  "9": {
+    "text": "Win gym battle(s)"
+  },
+  "10": {
+    "text": "Super effective charge move"
+  },
+  "11": {
+    "text": "Item"
+  },
+  "12": {
+    "text": "Unique pokéstop(s)"
+  },
+  "13": {
+    "text": "Quest context"
+  },
+  "14": {
+    "text": "Throw type(s) in a row"
+  },
+  "15": {
+    "text": "Curve ball"
+  },
+  "16": {
+    "text": "Badge type"
+  },
+  "17": {
+    "text": "Player level"
+  },
+  "18": {
+    "text": "Win battle status"
+  },
+  "19": {
+    "text": "New friend"
+  },
+  "20": {
+    "text": "Days in a row"
+  },
+  "21": {
+    "text": "WITH_UNIQUE_POKEMON"
+  },
+  "22": {
+    "text": "WITH_NPC_COMBAT"
+  },
+  "23": {
+    "text": "WITH_PVP_COMBAT"
+  },
+  "24": {
+    "text": "WITH_LOCATION"
+  },
+  "25": {
+    "text": "WITH_DISTANCE"
+  },
+  "26": {
+    "text": "WITH_POKEMON_ALIGNMENT"
+  },
+  "27": {
+    "text": "WITH_INVASION_CHARACTER"
+  },
+  "28": {
+    "text": "WITH_BUDDY"
+  },
+  "29": {
+    "text": "WITH_BUDDY_INTERESTING_POI"
+  },
+  "30": {
+    "text": "WITH_DAILY_BUDDY_AFFECTION"
+  },
+  "31": {
+    "text": "WITH_POKEMON_LEVEL"
+  },
+  "32": {
+    "text": "WITH_SINGLE_DAY"
+  },
+  "33": {
+    "text": "WITH_UNIQUE_POKEMON_TEAM"
+  },
+  "34": {
+    "text": "WITH_MAX_CP"
+  },
+  "35": {
+    "text": "WITH_LUCKY_POKEMON"
+  },
+  "36": {
+    "text": "WITH_LEGENDARY_POKEMON"
+  },
+  "37": {
+    "text": "WITH_TEMP_EVO_POKEMON"
+  },
+  "38": {
+    "text": "WITH_GBL_RANK"
+  },
+  "39": {
+    "text": "WITH_CATCHES_IN_A_ROW"
+  },
+  "40": {
+    "text": "WITH_ENCOUNTER_TYPE"
+  },
+  "41": {
+    "text": "WITH_COMBAT_TYPE"
+  },
+  "42": {
+    "text": "WITH_GEOTARGETED_POI"
+  },
+  "43": {
+    "text": "WITH_ITEM_TYPE"
+  },
+  "44": {
+    "text": "WITH_RAID_ELAPSED_TIME"
+  }
+}

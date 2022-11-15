@@ -1,0 +1,51 @@
+/* Stats */
+
+#rightNav {
+  top: 3.5em;
+  .offcanvas-body.right {
+    padding: 0px;
+    h2 {
+      margin-left: 0;
+    }
+  }
+  .card-body {
+    overflow: hidden;
+    overflow-y: auto;
+    max-height: 25em;
+  }
+  #fullStatsToggle {
+      margin-top: 0;
+  }
+}
+
+#statsModal {
+    .modal-header {
+        padding: 0 1rem;
+    }
+    #nav-overview-stats {
+        .card-header {
+            background-color: darken(_palette(accent2, bg), 12);
+        }
+    }
+    thead {
+        background-color: darken(_palette(accent2, bg), 12);
+    }
+    th {
+        color: _palette(accent2, fg) !important;
+    }
+    th, td {
+        text-align: center;
+    }
+    .valor h4 {
+        color: #f71208;
+    }
+    .mystic h4 {
+        color: #0076f3;
+    }
+    .instinct h4 {
+        color: #ffd200;
+    }
+    .col-md-3, .col-md-4 {
+        margin-top: 10px;
+    }
+}

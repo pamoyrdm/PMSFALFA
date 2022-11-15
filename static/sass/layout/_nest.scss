@@ -1,0 +1,23 @@
+.delete-nest{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-size: 20px;
+  border-top-left-radius: 10px;
+  background: rgb(255, 0, 0);
+  padding: 5px;
+  color: rgb(255, 255, 255);
+}
+.submit-nest{
+  font-size:20px;
+}
+.nest-widget-popup{
+  .ui-dialog-content.global-nest-modal{
+    padding:0;
+  }
+   .pokemon-list {
+    max-height: 331px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+  }
+}

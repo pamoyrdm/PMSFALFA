@@ -1,0 +1,832 @@
+{
+  "1": {
+    "type": "Blanche",
+    "grunt": "Female"
+  },
+  "2": {
+    "type": "Candela",
+    "grunt": "Female"
+  },
+  "3": {
+    "type": "Spark",
+    "grunt": "Male"
+  },
+  "4": {
+    "type": "Grunt",
+    "grunt": "Male"
+  },
+  "5": {
+    "type": "Grunt",
+    "grunt": "Female",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "143"
+      ],
+      "second": [
+        "62",
+        "143",
+        "282"
+      ],
+      "third": [
+        "130",
+        "143",
+        "149"
+      ]
+    }
+  },
+  "6": {
+    "type": "Bug",
+    "grunt": "Female"
+  },
+  "7": {
+    "type": "Bug",
+    "grunt": "Male",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "13",
+        "213"
+      ],
+      "second": [
+        "15",
+        "451"
+      ],
+      "third": [
+        "127",
+        "205",
+        "212"
+      ]
+    }
+  },
+  "8": {
+    "type": "Ghost",
+    "grunt": "Female"
+  },
+  "9": {
+    "type": "Ghost",
+    "grunt": "Male"
+  },
+  "10": {
+    "type": "Dark",
+    "grunt": "Female",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "19",
+        "509"
+      ],
+      "second": [
+        "20",
+        "434"
+      ],
+      "third": [
+        "20",
+        "332",
+        "430"
+      ]
+    }
+  },
+  "11": {
+    "type": "Dark",
+    "grunt": "Male"
+  },
+  "12": {
+    "type": "Dragon",
+    "grunt": "Female",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "103",
+        "147"
+      ],
+      "second": [
+        "103",
+        "330"
+      ],
+      "third": [
+        "148",
+        "149",
+        "330"
+      ]
+    }
+  },
+  "13": {
+    "type": "Dragon",
+    "grunt": "Male"
+  },
+  "14": {
+    "type": "Fairy",
+    "grunt": "Female",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "209",
+        "280"
+      ],
+      "second": [
+        "209",
+        "210",
+        "281"
+      ],
+      "third": [
+        "210",
+        "281"
+      ]
+    }
+  },
+  "15": {
+    "type": "Fairy",
+    "grunt": "Male"
+  },
+  "16": {
+    "type": "Fighting",
+    "grunt": "Female",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "66",
+        "296"
+      ],
+      "second": [
+        "106",
+        "107"
+      ],
+      "third": [
+        "67",
+        "106",
+        "107"
+      ]
+    }
+  },
+  "17": {
+    "type": "Fighting",
+    "grunt": "Male"
+  },
+  "18": {
+    "type": "Fire",
+    "grunt": "Female",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "155",
+        "322"
+      ],
+      "second": [
+        "126",
+        "156"
+      ],
+      "third": [
+        "38",
+        "157",
+        "323"
+      ]
+    }
+  },
+  "19": {
+    "type": "Fire",
+    "grunt": "Male"
+  },
+  "20": {
+    "type": "Flying",
+    "grunt": "Female",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "198",
+        "396",
+        "580"
+      ],
+      "second": [
+        "42",
+        "397"
+      ],
+      "third": [
+        "130",
+        "149",
+        "169"
+      ]
+    }
+  },
+  "21": {
+    "type": "Flying",
+    "grunt": "Male"
+  },
+  "22": {
+    "type": "Grass",
+    "grunt": "Female"
+  },
+  "23": {
+    "type": "Grass",
+    "grunt": "Male",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "152",
+        "331"
+      ],
+      "second": [
+        "332"
+      ],
+      "third": [
+        "154",
+        "332",
+        "591"
+      ]
+    }
+  },
+  "24": {
+    "type": "Ground",
+    "grunt": "Female"
+  },
+  "25": {
+    "type": "Ground",
+    "grunt": "Male",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "74",
+        "449"
+      ],
+      "second": [
+        "75",
+        "449"
+      ],
+      "third": [
+        "76",
+        "323",
+        "450"
+      ]
+    }
+  },
+  "26": {
+    "type": "Ice",
+    "grunt": "Female",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "27",
+        "220"
+      ],
+      "second": [
+        "28",
+        "459"
+      ],
+      "third": [
+        "91",
+        "131",
+        "460"
+      ]
+    }
+  },
+  "27": {
+    "type": "Ice",
+    "grunt": "Male"
+  },
+  "28": {
+    "type": "Steel",
+    "grunt": "Female"
+  },
+  "29": {
+    "type": "Steel",
+    "grunt": "Male"
+  },
+  "30": {
+    "type": "Normal",
+    "grunt": "Female"
+  },
+  "31": {
+    "type": "Normal",
+    "grunt": "Male",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "19",
+        "293",
+        "504"
+      ],
+      "second": [
+        "20",
+        "294",
+        "399"
+      ],
+      "third": [
+        "20",
+        "217",
+        "400"
+      ]
+    }
+  },
+  "32": {
+    "type": "Poison",
+    "grunt": "Female",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "32",
+        "41",
+        "590"
+      ],
+      "second": [
+        "30",
+        "33"
+      ],
+      "third": [
+        "89",
+        "110"
+      ]
+    }
+  },
+  "33": {
+    "type": "Poison",
+    "grunt": "Male"
+  },
+  "34": {
+    "type": "Psychic",
+    "grunt": "Female"
+  },
+  "35": {
+    "type": "Psychic",
+    "grunt": "Male",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "63",
+        "203"
+      ],
+      "second": [
+        "203",
+        "280"
+      ],
+      "third": [
+        "65",
+        "97",
+        "375"
+      ]
+    }
+  },
+  "36": {
+    "type": "Rock",
+    "grunt": "Female"
+  },
+  "37": {
+    "type": "Rock",
+    "grunt": "Male",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "185",
+        "246"
+      ],
+      "second": [
+        "75",
+        "345",
+        "347"
+      ],
+      "third": [
+        "76",
+        "247",
+        "248"
+      ]
+    }
+  },
+  "38": {
+    "type": "Water",
+    "grunt": "Female",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "158",
+        "258"
+      ],
+      "second": [
+        "159",
+        "259"
+      ],
+      "third": [
+        "160",
+        "260"
+      ]
+    }
+  },
+  "39": {
+    "type": "Water",
+    "grunt": "Male",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "129"
+      ],
+      "second": [
+        "129"
+      ],
+      "third": [
+        "129",
+        "130"
+      ]
+    }
+  },
+  "40": {
+    "type": "Player Team Leader",
+    "grunt": ""
+  },
+  "41": {
+    "type": "Executive Cliff",
+    "grunt": "Male",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "1"
+      ],
+      "second": [
+        "3",
+        "139",
+        "169"
+      ],
+      "third": [
+        "248",
+        "260",
+        "389"
+      ]
+    }
+  },
+  "42": {
+    "type": "Executive Arlo",
+    "grunt": "Male",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "4"
+      ],
+      "second": [
+        "6",
+        "303",
+        "373"
+      ],
+      "third": [
+        "208",
+        "212",
+        "282"
+      ]
+    }
+  },
+  "43": {
+    "type": "Executive Sierra",
+    "grunt": "Female",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "7"
+      ],
+      "second": [
+        "9",
+        "131",
+        "257"
+      ],
+      "third": [
+        "31",
+        "229",
+        "452"
+      ]
+    }
+  },
+  "44": {
+    "type": "Giovanni or Decoy",
+    "grunt": "Male",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "381"
+      ],
+      "second": [],
+      "third": []
+    }
+  },
+  "45": {
+    "type": "Decoy",
+    "grunt": "Male"
+  },
+  "46": {
+    "type": "Decoy",
+    "grunt": "Female",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "69"
+      ],
+      "second": [
+        "20",
+        "70"
+      ],
+      "third": [
+        "20",
+        "143"
+      ]
+    }
+  },
+  "47": {
+    "type": "Ghost",
+    "grunt": "Female"
+  },
+  "48": {
+    "type": "Ghost",
+    "grunt": "Male",
+    "second_reward": "false",
+    "encounters": {
+      "first": [
+        "200",
+        "302",
+        "355"
+      ],
+      "second": [
+        "354",
+        "356"
+      ],
+      "third": [
+        "302",
+        "354",
+        "477"
+      ]
+    }
+  },
+  "49": {
+    "type": "Electric",
+    "grunt": "Female",
+    "second_reward": "true",
+    "encounters": {
+      "first": [
+        "179",
+        "403"
+      ],
+      "second": [
+        "100",
+        "125"
+      ],
+      "third": [
+        "125",
+        "181",
+        "405"
+      ]
+    }
+  },
+  "50": {
+    "type": "Electric",
+    "grunt": "Male"
+  },
+  "51": {
+    "type": "Balloon Grunt",
+    "grunt": "Female"
+  },
+  "52": {
+    "type": "Balloon Grunt",
+    "grunt": "Male"
+  },
+  "53": {
+    "type": "Gruntb",
+    "grunt": "Female"
+  },
+  "54": {
+    "type": "Gruntb",
+    "grunt": "Male"
+  },
+  "55": {
+    "type": "Bug Balloon",
+    "grunt": "Female"
+  },
+  "56": {
+    "type": "Bug Balloon",
+    "grunt": "Male"
+  },
+  "57": {
+    "type": "Dark Balloon",
+    "grunt": "Female"
+  },
+  "58": {
+    "type": "Dark Balloon",
+    "grunt": "Male"
+  },
+  "59": {
+    "type": "Dragon Balloon",
+    "grunt": "Female"
+  },
+  "60": {
+    "type": "Dragon Balloon",
+    "grunt": "Male"
+  },
+  "61": {
+    "type": "Fairy Balloon",
+    "grunt": "Female"
+  },
+  "62": {
+    "type": "Fairy Balloon",
+    "grunt": "Male"
+  },
+  "63": {
+    "type": "Fighting Balloon",
+    "grunt": "Female"
+  },
+  "64": {
+    "type": "Fighting Balloon",
+    "grunt": "Male"
+  },
+  "65": {
+    "type": "Fire Balloon",
+    "grunt": "Female"
+  },
+  "66": {
+    "type": "Fire Balloon",
+    "grunt": "Male"
+  },
+  "67": {
+    "type": "Flying Balloon",
+    "grunt": "Female"
+  },
+  "68": {
+    "type": "Flying Balloon",
+    "grunt": "Male"
+  },
+  "69": {
+    "type": "Grass Balloon",
+    "grunt": "Female"
+  },
+  "70": {
+    "type": "Grass Balloon",
+    "grunt": "Male"
+  },
+  "71": {
+    "type": "Ground Balloon",
+    "grunt": "Female"
+  },
+  "72": {
+    "type": "Ground Balloon",
+    "grunt": "Male"
+  },
+  "73": {
+    "type": "Ice Balloon",
+    "grunt": "Female"
+  },
+  "74": {
+    "type": "Ice Balloon",
+    "grunt": "Male"
+  },
+  "75": {
+    "type": "Steel Balloon",
+    "grunt": "Female"
+  },
+  "76": {
+    "type": "Steel Balloon",
+    "grunt": "Male"
+  },
+  "77": {
+    "type": "Normal Balloon",
+    "grunt": "Female"
+  },
+  "78": {
+    "type": "Normal Balloon",
+    "grunt": "Male"
+  },
+  "79": {
+    "type": "Poison Balloon",
+    "grunt": "Female"
+  },
+  "80": {
+    "type": "Poison Balloon",
+    "grunt": "Male"
+  },
+  "81": {
+    "type": "Psychic Balloon",
+    "grunt": "Female"
+  },
+  "82": {
+    "type": "Psychic Balloon",
+    "grunt": "Male"
+  },
+  "83": {
+    "type": "Rock Balloon",
+    "grunt": "Female"
+  },
+  "84": {
+    "type": "Rock Balloon",
+    "grunt": "Male"
+  },
+  "85": {
+    "type": "Water Balloon",
+    "grunt": "Female"
+  },
+  "86": {
+    "type": "Water Balloon",
+    "grunt": "Male"
+  },
+  "87": {
+    "type": "Ghost Balloon",
+    "grunt": "Female"
+  },
+  "88": {
+    "type": "Ghost Balloon",
+    "grunt": "Male"
+  },
+  "89": {
+    "type": "Electric Balloon",
+    "grunt": "Female"
+  },
+  "90": {
+    "type": "Electric Balloon",
+    "grunt": "Male"
+  },
+  "500": {
+    "type": "Event NPC 0",
+    "grunt": ""
+  },
+  "501": {
+    "type": "Event NPC 1",
+    "grunt": ""
+  },
+  "502": {
+    "type": "Event NPC 2",
+    "grunt": ""
+  },
+  "503": {
+    "type": "Event NPC 3",
+    "grunt": ""
+  },
+  "504": {
+    "type": "Event NPC 4",
+    "grunt": ""
+  },
+  "505": {
+    "type": "Event NPC 5",
+    "grunt": ""
+  },
+  "506": {
+    "type": "Event NPC 6",
+    "grunt": ""
+  },
+  "507": {
+    "type": "Event NPC 7",
+    "grunt": ""
+  },
+  "508": {
+    "type": "Event NPC 8",
+    "grunt": ""
+  },
+  "509": {
+    "type": "Event NPC 9",
+    "grunt": ""
+  },
+  "510": {
+    "type": "Event NPC 10",
+    "grunt": ""
+  },
+  "511": {
+    "type": "Event Blanche",
+    "grunt": "Female"
+  },
+  "512": {
+    "type": "Event Candela",
+    "grunt": "Female"
+  },
+  "513": {
+    "type": "Event Spark",
+    "grunt": "Male"
+  },
+  "514": {
+    "type": "Event NPC 11",
+    "grunt": ""
+  },
+  "515": {
+    "type": "Event NPC 12",
+    "grunt": ""
+  },
+  "516": {
+    "type": "Event NPC 13",
+    "grunt": ""
+  },
+  "517": {
+    "type": "Event NPC 14",
+    "grunt": ""
+  },
+  "518": {
+    "type": "Event NPC 15",
+    "grunt": ""
+  },
+  "519": {
+    "type": "Event NPC 16",
+    "grunt": ""
+  },
+  "520": {
+    "type": "Event NPC 17",
+    "grunt": ""
+  },
+  "521": {
+    "type": "Event NPC 18",
+    "grunt": ""
+  },
+  "522": {
+    "type": "Event NPC 19",
+    "grunt": ""
+  },
+  "523": {
+    "type": "Event NPC 20",
+    "grunt": ""
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "0": {
+    "text": "Unknown quest type"
+  },
+  "1": {
+    "text": "First catch of the day"
+  },
+  "2": {
+    "text": "First pokéstop of the day"
+  },
+  "3": {
+    "text": "Multi part"
+  },
+  "4": {
+    "text": "Catch {0} pokémon"
+  },
+  "5": {
+    "text": "Spin {0} pokéstop(s)"
+  },
+  "6": {
+    "text": "Hatch {0} egg(s)"
+  },
+  "7": {
+    "text": "Complete {0} gym battle(s)"
+  },
+  "8": {
+    "text": "Complete {0} raid battle(s)"
+  },
+  "9": {
+    "text": "Complete {0} quest(s)"
+  },
+  "10": {
+    "text": "Transfer {0} pokémon"
+  },
+  "11": {
+    "text": "Favorite {0} pokémon"
+  },
+  "12": {
+    "text": "Autocomplete"
+  },
+  "13": {
+    "text": "Catch {0} pokémon with berrie(s)"
+  },
+  "14": {
+    "text": "Power up a pokémon {0} times"
+  },
+  "15": {
+    "text": "Evolve {0} pokémon"
+  },
+  "16": {
+    "text": "Land {0} throw(s)"
+  },
+  "17": {
+    "text": "Walk your buddy to earn {0} candy"
+  },
+  "18": {
+    "text": "Collect {0} badge(s)"
+  },
+  "19": {
+    "text": "Become level {0}"
+  },
+  "20": {
+    "text": "Join {0} raid(s)"
+  },
+  "21": {
+    "text": "Complete {0} raid battle(s)"
+  },
+  "22": {
+    "text": "Make {0} new friends"
+  },
+  "23": {
+    "text": "Trade {0} pokémon"
+  },
+  "24": {
+    "text": "Send {0} gift(s)"
+  },
+  "25": {
+    "text": "Evolve {0} pokémon into"
+  },
+  "27": {
+    "text": "Win {0} pvp battle(s)"
+  },
+  "28": {
+    "text": "Take {0} Snapshot(s)"
+  },
+  "29": {
+    "text": "Battle against {0} Team GO Rocket Grunt(s)"
+  },
+  "30": {
+    "text": "Purify {0} pokémon"
+  },
+  "31": {
+    "text": "Find Team Rocket {0} times"
+  },
+  "32": {
+    "text": "First Grunt of the day"
+  },
+  "33": {
+    "text": "Give your buddy {0} treat(s)"
+  },
+  "34": {
+    "text": "Earn {0} Heart(s) with your Buddy"
+  },
+  "35": {
+    "text": "Play with your Buddy {0} times"
+  },
+  "36": {
+    "text": "Increase your Buddy Level {0} times"
+  },
+  "37": {
+    "text": "Earn {0} Friendship points by Walking with your Buddy"
+  },
+  "38": {
+    "text": "Earn {0} Souvenirs from your Buddy"
+  },
+  "39": {
+    "text": "Use Incense {0} times"
+  },
+  "40": {
+    "text": "QUEST_BUDDY_FIND_SOUVENIR"
+  },
+  "41": {
+    "text": "QUEST_COLLECT_AS_REWARDS"
+  },
+  "42": {
+    "text": "Walk {0} km"
+  },
+  "43": {
+    "text": "Mega-Evolve {0} Pokemon"
+  },
+  "44": {
+    "text": "QUEST_GET_STARDUST"
+  },
+  "45": {
+    "text": "QUEST_MINI_COLLECTION"
+  },
+  "46": {
+    "text": "AR-Scan {0} pokéstop(s)"
+  },
+  "50": {
+    "text": "QUEST_BUDDY_EVOLUTION_WALK"
+  },
+  "51": {
+    "text": "QUEST_GBL_RANK"
+  },
+  "53": {
+    "prototext": "QUEST_CHARGE_ATTACK",
+    "text": "Use {0} Charged Attack(s)"
+  },
+  "54": {
+    "text": "QUEST_CHANGE_POKEMON_FORM"
+  },
+  "55": {
+    "text": "Battle {0} Challenger(s)"
+  },
+  "56": {
+    "text": "Earn {0} points powering up a Pokéstop or Gym"
+  },
+  "57": {
+    "text": "Take {0} snapshot(s) of wild pokémon"
+  },
+  "58": {
+    "text": "QUEST_USE_POKEMON_ITEM"
+  },
+  "59": {
+    "text": "Open {0} gift(s)"
+  },
+  "60": {
+    "text": "QUEST_EARN_XP"
+  },
+  "61": {
+    "text": "QUEST_BATTLE_PLAYER_TEAM_LEADER"
+  }
+}
